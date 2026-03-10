@@ -8,3 +8,5 @@
 - Python
 - React
 - PostgreSQL
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Chai5K5)

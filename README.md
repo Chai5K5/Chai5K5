@@ -12,3 +12,5 @@
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chai5K5&show_icons=true&theme=radical)<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chai5k5&theme=dark)
+
+![snake gif](https://raw.githubusercontent.com/Chai5K5/Chai5K5/output/github-contribution-grid-snake-dark.svg)

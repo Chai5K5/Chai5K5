@@ -11,4 +11,4 @@
 ## GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chai5K5&show_icons=true&theme=radical)<br/>
 
-![Stats](https://nirzak-streak-stats.vercel.app/?user=Chai5K5&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chai5k5&theme=dark)

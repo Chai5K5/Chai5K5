@@ -10,5 +10,5 @@
 - PostgreSQL
 ## GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chai5K5&show_icons=true&theme=radical)<br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/AvatarChaitanya9117?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Chaitanya9117?theme=dark&font=Baloo&ext=contest)
 ![snake gif](https://raw.githubusercontent.com/Chai5K5/Chai5K5/output/github-contribution-grid-snake-dark.svg)

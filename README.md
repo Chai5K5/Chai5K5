@@ -1,7 +1,7 @@
 # Hi 👋 I'm Chaitanya
 
 🎓 Computer Science Student  
-💻 Interested in Machine Learning and Backend Development
+💻 Interested in Machine Learning and Fullstack Web Development
 
 ## Tech Stack
 - C++
